@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I'm a passionate **Software Developer** who loves coding and building websites. I enjoy sharing my learnings through projects and posts, with a daily goal to improve and expand my skills.  
 
-🎓 **Currently Pursuing**: B.Sc. in Computer Science at **IIT Madras**  
+🎓 **Completed**: B.Tech in Computer Science from **IIT Madras**  
 💼 **Web Developer at**: Sunglow Survey Insurance Pvt. Ltd.  
 
 Balancing work and studies has been an exciting journey. Every challenge I encounter helps me grow and refine my skills.  
